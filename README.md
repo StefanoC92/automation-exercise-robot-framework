@@ -1,5 +1,5 @@
 # automation-exercise-robot-framework
-Git repository to store the test automation project to test the sample web page https://automationexercise.com/ with Robot Framework, Selenium and Python.
+Git repository to store the test automation project to test the sample web page https://automationexercise.com/ with Robot Framework, Selenium, and Python.
 
 The repository structure is described below:
 
@@ -13,12 +13,12 @@ automation-exercise-robot-framework
 │   ├── test_suite2.robot
 │   ├── ...
 │   
-├── resources (containing resource files where reusable keyword are implemented)
+├── resources (containing resource files where reusable keywords are implemented)
 │   ├── common.resource
 │   ├── some_other.resource
 │   ├── ...
 │
-├── libraries (conatining python modules where custom-based keywords are implemented)
+├── libraries (containing Python modules where custom-based keywords are implemented)
 │   ├── custom_library.py
 │   ├── variables.py
 │   ├── ...
@@ -31,6 +31,6 @@ automation-exercise-robot-framework
 │   │   ├── test_data_file.csv
 │   │   ├── test_data_file.xlsx
 │
-├── .gitignore (containing all the files should be ignored when pushing changes to the remote repository)
+├── .gitignore (containing all the files that should be ignored when pushing changes to the remote repository)
 ├── README.md (this file)
-├── requirements.txt (containing all the dependencies shall be installed)
+├── requirements.txt (containing all the dependencies shall be installed).
